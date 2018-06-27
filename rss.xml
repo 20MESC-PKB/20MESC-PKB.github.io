@@ -4,10 +4,17 @@
     <title>org-page</title>
     <link>http://20MESC-PKB.github.io/</link>
     <description>static site generator</description>
-    <pubDate>Tue, 26 Jun 2018 19:06:25 PDT</pubDate>
-    <lastBuildDate>Tue, 26 Jun 2018 19:06:25 PDT</lastBuildDate>
+    <pubDate>Wed, 27 Jun 2018 11:28:33 PDT</pubDate>
+    <lastBuildDate>Wed, 27 Jun 2018 11:28:33 PDT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Calibrations V. Meditations</title>
+      <link>http://20MESC-PKB.github.io/blog/2018/06/27/calibrations-v-meditations</link>
+      <description><![CDATA[Its really just a test of your mind.]]></description>
+      <pubDate>2018-06-27</pubDate>
+      <guid>http://20MESC-PKB.github.io/blog/2018/06/27/calibrations-v-meditations</guid>
+    </item>
     <item>
       <title>Is this thing on?</title>
       <link>http://20MESC-PKB.github.io/blog/2018/06/26/is-this-thing-on</link>
